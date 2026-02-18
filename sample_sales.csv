@@ -1,0 +1,16 @@
+order_id,date,customer_id,product,region,quantity,price
+1001,2025-01-01,C101,Laptop,North,1,800
+1002,2025-01-02,C102,Mouse,South,2,20
+1003,2025-01-03,C103,Keyboard,East,1,50
+1004,2025-01-05,C101,Monitor,North,1,300
+1005,2025-01-07,C104,Laptop,West,1,850
+1006,2025-02-01,C105,Mouse,South,3,20
+1007,2025-02-02,C101,Laptop,North,1,800
+1008,2025-02-03,C106,Keyboard,East,2,50
+1009,2025-02-10,C102,Monitor,South,1,280
+1010,2025-02-15,C107,Laptop,West,1,900
+1011,2025-03-01,C108,Mouse,North,5,20
+1012,2025-03-05,C103,Keyboard,East,1,50
+1013,2025-03-07,C109,Monitor,West,1,320
+1014,2025-03-10,C101,Laptop,North,1,820
+1015,2025-03-15,C110,Mouse,South,2,25
